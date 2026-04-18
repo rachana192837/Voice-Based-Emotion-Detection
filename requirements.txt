@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch==2.3.0
+torchaudio==2.3.0
+soundfile
+librosa
